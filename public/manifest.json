@@ -1,0 +1,16 @@
+{
+  "name": "EzWood - Premium Furniture Store",
+  "short_name": "EzWood",
+  "description": "Premium furniture and home decor store",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#5a4a3a",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
